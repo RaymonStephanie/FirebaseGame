@@ -1,1 +1,2 @@
-# FirebaseGame
+# synchronousBallMovement
+Ball moving synchronously
